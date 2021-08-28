@@ -1,0 +1,27 @@
+body {
+    background-color: lightgreen;
+}
+
+#title {
+    width: 100px;
+}
+
+.image_result {
+    box-shadow: 5px 5px 10px orange;
+    width: 30%;
+    height: 60%;
+    background-color: lightblue;
+}
+
+#size {
+    height: 180px;
+}
+#result{
+background-color: lightblue;
+}
+.p{
+    font-size: 30px;
+}
+.p1{
+    font-size: 30px;
+}
